@@ -1,6 +1,8 @@
 # G-1450-Form
 
 This project is a web application for handling G1450 form submissions.
+![image](https://github.com/RehmanMujtaba/G-1450-Form/assets/97486476/6f34446f-e0d6-4a25-8291-8b585089fe3e)
+
 
 ## Description
 
